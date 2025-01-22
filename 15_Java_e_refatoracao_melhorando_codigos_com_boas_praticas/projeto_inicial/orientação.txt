@@ -1,1 +1,0 @@
-Se for executar o projeto refatorado, precisa pegar o arquivo api.jar e executar no terminal antes dos testes
